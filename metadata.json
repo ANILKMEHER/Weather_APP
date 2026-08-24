@@ -1,0 +1,6 @@
+{
+  "name": "ClimatoIQ",
+  "description": "AI-powered micro-climate intelligence, hyper-local weather tracking, smart transit advisories, and real-time cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
